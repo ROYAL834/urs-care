@@ -1,0 +1,8 @@
+{
+  "name": "Urs care",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "63b41410"
+}
